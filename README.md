@@ -1,13 +1,16 @@
 👥 HR Employee Attrition Analysis & Prediction
 
 📘 Introduction
+
 Employee attrition poses a significant challenge for organizations by increasing hiring costs, disrupting productivity, and impacting workforce stability.
 This project analyses HR employee data to understand why employees leave, identify high-risk groups, and uncover key drivers of attrition.
 The analysis combines structured HR data with SQL-based analytics and Power BI dashboards to generate actionable, business-focused insights.
 ________________________________________
 
 🎯 Objectives
+
 The key objectives of this analysis are:
+
 •	To analyse overall employee attrition trends across the organization
 •	To examine attrition patterns by tenure, salary, department, and job role
 •	To understand the impact of overtime, work-life balance, and performance ratings on attrition
@@ -16,7 +19,9 @@ The key objectives of this analysis are:
 ________________________________________
 
 🗂️ Dataset and Context
+
 One primary dataset was used:
+
 HR Employee Attrition Dataset (HR-Employee-Attrition.csv)
 The dataset contains employee-level information such as:
 •	Demographics: Age, Gender, Marital Status
@@ -29,7 +34,9 @@ Each row represents one employee.
 ________________________________________
 
 🧰Tools Used
+
 The analysis was carried out using:
+
 •	SQL
 o	Data cleaning and transformation
 o	Attrition rate calculations
@@ -39,11 +46,14 @@ o	Interactive dashboards
 o	KPI visualization and business storytelling
 •	CSV / Excel
 o	Source data storage
+
 The SQL script and dashboard are included for reproducibility.
 ________________________________________
 
 🧹 Data Preparation
+
 The following data preparation steps were undertaken:
+
 •	Cleaned and standardized HR data fields
 •	Created derived columns such as tenure buckets and salary bands
 •	Converted categorical variables for analysis
@@ -53,6 +63,7 @@ The following data preparation steps were undertaken:
 ________________________________________
 
 📊 Key Findings
+
 •	Early-tenure employees (0–1 year) experience the highest attrition rate, indicating onboarding and early engagement gaps
 •	Employees in the low salary band show significantly higher attrition compared to medium and high salary groups
 •	Overtime and poor work-life balance are strongly associated with attrition, with rates exceeding 30% in some segments
@@ -61,7 +72,9 @@ ________________________________________
 ________________________________________
 
 📈 Dashboard Insights
+
 The Power BI dashboard provides:
+
 •	Overall attrition KPIs
 •	Attrition by tenure, department, and job role
 •	Salary vs attrition comparisons
@@ -70,12 +83,14 @@ The Power BI dashboard provides:
 ________________________________________
 
 💬 Conclusion and Insights
+
 The analysis shows that employee attrition is driven more by structural and operational factors than individual performance.
 Early-career employees, low-paid roles, and overtime-heavy positions face the highest attrition risk. Departments such as Sales require targeted retention strategies, while compensation and workload balance emerge as critical levers for reducing churn.
 Retention efforts focused on early engagement, fair pay, and sustainable workloads can significantly improve workforce stability.
 ________________________________________
 
 💡 Recommendations
+
 •	Strengthen early-tenure onboarding and mentoring programs
 •	Review and optimize compensation for low-paid, high-attrition roles
 •	Actively monitor and control overtime and workload distribution
