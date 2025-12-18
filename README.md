@@ -203,20 +203,31 @@ Retention efforts focused on early engagement, fair pay, and sustainable workloa
 ________________________________________
 
 
-💡 Recommendations
+💡 Strategic Recommendations
 
 
-• Strengthen early-tenure onboarding and mentoring programs
+• Improve Early-Tenure Retention: Structured onboarding, mentoring, and 3–6–12 month stay interviews.
 
 
-• Review and optimize compensation for low-paid, high-attrition roles
+• Compensation Review: Adjust salary bands for low-paid, high-attrition roles.
 
 
-• Actively monitor and control overtime and workload distribution
+• Reduce Burnout: Monitor overtime and improve workload distribution.
 
 
-• Design role-specific retention strategies, especially for Sales and HR
+• Role-Specific Interventions: Tailored retention strategies for Sales and HR.
 
 
-• Implement an attrition risk scoring framework using tenure, overtime, and satisfaction indicators
+• Attrition Risk Scoring: Proactively flag high-risk employees using tenure, overtime, and satisfaction metrics.
 
+
+🎯 Expected Business Impact
+
+
+• 5–8 % reduction in overall attrition
+
+
+• Lower replacement and training costs
+
+
+• Improved workforce stability and engagement
