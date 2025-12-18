@@ -80,7 +80,7 @@ ________________________________________
 The analysis was carried out using:
 
 
-• SQL
+  SQL
 
 
 o Data cleaning and transformation
@@ -92,7 +92,7 @@ o Attrition rate calculations
 o CTEs, CASE statements, and aggregations
 
 
-• Power BI
+  Power BI
 
 
 o Interactive dashboards
@@ -101,7 +101,7 @@ o Interactive dashboards
 o KPI visualization and business storytelling
 
 
-• CSV / Excel
+ CSV / Excel
 
 
 o Source data storage
