@@ -1,151 +1,222 @@
-                                          👥 HR Employee Attrition Analysis & Prediction
-
-
+  👥 HR Employee Attrition Analysis & Prediction
+  
 📘 Introduction
 
 Employee attrition poses a significant challenge for organizations by increasing hiring costs, disrupting productivity, and impacting workforce stability.
 
+
 This project analyses HR employee data to understand why employees leave, identify high-risk groups, and uncover key drivers of attrition.
 
+
 The analysis combines structured HR data with SQL-based analytics and Power BI dashboards to generate actionable, business-focused insights.
+
+
 ________________________________________
+
 
 🎯 Objectives
 
+
 The key objectives of this analysis are:
 
-•	To analyse overall employee attrition trends across the organization
 
-•	To examine attrition patterns by tenure, salary, department, and job role
+• To analyse overall employee attrition trends across the organization
 
-•	To understand the impact of overtime, work-life balance, and performance ratings on attrition
 
-•	To identify high-risk employee segments
+• To examine attrition patterns by tenure, salary, department, and job role
 
-•	To provide data-driven recommendations that can help HR teams reduce employee churn
+
+• To understand the impact of overtime, work-life balance, and performance ratings on attrition
+
+
+• To identify high-risk employee segments
+
+
+• To provide data-driven recommendations that can help HR teams reduce employee churn
+
+
 ________________________________________
+
 
 🗂️ Dataset and Context
 
+
 One primary dataset was used:
+
 
 HR Employee Attrition Dataset (HR-Employee-Attrition.csv)
 
+
 The dataset contains employee-level information such as:
 
-•	Demographics: Age, Gender, Marital Status
 
-•	Job Information: Department, Job Role, Job Level
+• Demographics: Age, Gender, Marital Status
 
-•	Compensation: Monthly Income, Salary Band
 
-•	Work Conditions: Overtime, Work-Life Balance
+• Job Information: Department, Job Role, Job Level
 
-•	Performance: Performance Rating
 
-•	Attrition Status: Yes / No
+• Compensation: Monthly Income, Salary Band
+
+
+• Work Conditions: Overtime, Work-Life Balance
+
+
+• Performance: Performance Rating
+
+
+• Attrition Status: Yes / No
+
 
 Each row represents one employee.
 
+
 ________________________________________
+
 
 🧰Tools Used
 
+
 The analysis was carried out using:
 
-•	SQL
 
-o	Data cleaning and transformation
+• SQL
 
-o	Attrition rate calculations
 
-o	CTEs, CASE statements, and aggregations
+o Data cleaning and transformation
 
-•	Power BI
 
-o	Interactive dashboards
+o Attrition rate calculations
 
-o	KPI visualization and business storytelling
 
-•	CSV / Excel
+o CTEs, CASE statements, and aggregations
 
-o	Source data storage
+
+• Power BI
+
+
+o Interactive dashboards
+
+
+o KPI visualization and business storytelling
+
+
+• CSV / Excel
+
+
+o Source data storage
 
 
 The SQL script and dashboard are included for reproducibility.
 
+
 ________________________________________
+
 
 🧹 Data Preparation
 
+
 The following data preparation steps were undertaken:
 
-•	Cleaned and standardized HR data fields
 
-•	Created derived columns such as tenure buckets and salary bands
+• Cleaned and standardized HR data fields
 
-•	Converted categorical variables for analysis
 
-•	Segmented employees by department, role, and experience level
+• Created derived columns such as tenure buckets and salary bands
 
-•	Filtered and validated attrition flags
 
-•	Aggregated data to compute department-level and role-level attrition rates
+• Converted categorical variables for analysis
+
+
+• Segmented employees by department, role, and experience level
+
+
+• Filtered and validated attrition flags
+
+
+• Aggregated data to compute department-level and role-level attrition rates
+
 
 ________________________________________
+
 
 📊 Key Findings
 
-•	Early-tenure employees (0–1 year) experience the highest attrition rate, indicating onboarding and early engagement gaps
 
-•	Employees in the low salary band show significantly higher attrition compared to medium and high salary groups
+• Early-tenure employees (0–1 year) experience the highest attrition rate, indicating onboarding and early engagement gaps
 
-•	Overtime and poor work-life balance are strongly associated with attrition, with rates exceeding 30% in some segments
 
-•	Attrition is role-specific, with Sales-related and operational roles experiencing higher churn
+• Employees in the low salary band show significantly higher attrition compared to medium and high salary groups
 
-•	High performance ratings do not reduce attrition, suggesting burnout and compensation issues outweigh performance satisfaction
+
+• Overtime and poor work-life balance are strongly associated with attrition, with rates exceeding 30% in some segments
+
+
+• Attrition is role-specific, with Sales-related and operational roles experiencing higher churn
+
+
+• High performance ratings do not reduce attrition, suggesting burnout and compensation issues outweigh performance satisfaction
+
 
 ________________________________________
+
 
 📈 Dashboard Insights
 
+
 The Power BI dashboard provides:
 
-•	Overall attrition KPIs
 
-•	Attrition by tenure, department, and job role
+• Overall attrition KPIs
 
-•	Salary vs attrition comparisons
 
-•	Overtime and work-life balance impact analysis
+• Attrition by tenure, department, and job role
 
-•	Filters for deep-dive exploration
+
+• Salary vs attrition comparisons
+
+
+• Overtime and work-life balance impact analysis
+
+
+• Filters for deep-dive exploration
+
 
 ________________________________________
+
 
 💬 Conclusion and Insights
 
+
 The analysis shows that employee attrition is driven more by structural and operational factors than individual performance.
+
 
 Early-career employees, low-paid roles, and overtime-heavy positions face the highest attrition risk.
 
+
 Departments such as Sales require targeted retention strategies, while compensation and workload balance emerge as critical levers for reducing churn.
+
 
 Retention efforts focused on early engagement, fair pay, and sustainable workloads can significantly improve workforce stability.
 
+
 ________________________________________
+
 
 💡 Recommendations
 
-•	Strengthen early-tenure onboarding and mentoring programs
 
-•	Review and optimize compensation for low-paid, high-attrition roles
+• Strengthen early-tenure onboarding and mentoring programs
 
-•	Actively monitor and control overtime and workload distribution
 
-•	Design role-specific retention strategies, especially for Sales and HR
+• Review and optimize compensation for low-paid, high-attrition roles
 
-•	Implement an attrition risk scoring framework using tenure, overtime, and satisfaction indicators
 
+• Actively monitor and control overtime and workload distribution
+
+
+• Design role-specific retention strategies, especially for Sales and HR
+
+
+• Implement an attrition risk scoring framework using tenure, overtime, and satisfaction indicators
 
