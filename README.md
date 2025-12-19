@@ -188,16 +188,16 @@ ________________________________________
 💬 Conclusion and Insights
 
 
-The analysis shows that employee attrition is driven more by structural and operational factors than individual performance.
+• The analysis shows that employee attrition is driven more by structural and operational factors than individual performance.
 
 
-Early-career employees, low-paid roles, and overtime-heavy positions face the highest attrition risk.
+• Early-career employees, low-paid roles, and overtime-heavy positions face the highest attrition risk.
 
 
-Departments such as Sales require targeted retention strategies, while compensation and workload balance emerge as critical levers for reducing churn.
+• Departments such as Sales require targeted retention strategies, while compensation and workload balance emerge as critical levers for reducing churn.
 
 
-Retention efforts focused on early engagement, fair pay, and sustainable workloads can significantly improve workforce stability.
+• Retention efforts focused on early engagement, fair pay, and sustainable workloads can significantly improve workforce stability.
 
 
 ________________________________________
